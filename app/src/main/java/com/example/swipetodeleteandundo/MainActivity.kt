@@ -36,6 +36,8 @@ class MainActivity : AppCompatActivity() {
         mList.add("Subscribe")
         mList.add("Subscribe")
         mList.add("Subscribe")
+        mList.add("Subscribe")
+        mList.add("Subscribe")
 
         itemAdapter.differ.submitList(mList)
 
